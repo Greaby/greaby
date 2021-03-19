@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-It's me.. Greaby ! | *gribi* |
+It's me.. Greaby ! */gribi/*
 
 I'm a Web Developer, Writer, Game Designer and Minecraft player from Switzerland.
 

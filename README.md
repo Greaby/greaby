@@ -10,4 +10,4 @@ I'm a Web Developer, Writer, Game Designer and Minecraft player from Switzerland
 
 Other plateforms where you can find me : [Twitter](https://twitter.com/greaby_) | [Youtube](https://www.youtube.com/c/greaby) | [Twitch](https://www.twitch.tv/greaby) | [Itch.io](https://greaby.itch.io/) | [Discord](https://discord.com/invite/7Uvszt4)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greaby)](https://github.com/Greaby)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greaby&langs_count=6&layout=compact)](https://github.com/Greaby)

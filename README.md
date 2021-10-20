@@ -13,7 +13,6 @@ Other plateforms where you can find me : [Twitter](https://twitter.com/greaby_) 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Les réseaux de neurones – Apprentissage supervisé dans Godot Engine](https://greaby.co/les-reseaux-de-neurones-apprentissage-supervise-dans-godot-engine/)
 - [Shuffle Playlist – Meilleure liste aléatoire dans VLC](https://greaby.co/shuffle-playlist-vlc/)
 - [Epic Game Jam – L’attaque du cravasite](https://greaby.co/epic-game-jam-2021/)

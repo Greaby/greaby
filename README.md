@@ -25,9 +25,9 @@ Other plateforms where you can find me : [Twitter](https://twitter.com/greaby_) 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Difficiles Aventures - On construit une ligne électrique [Re'Diff 27.08.21]](https://www.youtube.com/watch?v=Snt6Kc08DqA)
-- [Difficiles Aventures - Terraforming pour l'autoroute [Re'Diff 21.08.21]](https://www.youtube.com/watch?v=m5heK8faSrQ)
-- [Difficiles Aventures - Transformateur électrique [Re'Diff 20.08.21]](https://www.youtube.com/watch?v=PqSnIBPaqD4)
+- [Difficiles Aventures - On construit une ligne électrique [Re&#39;Diff 27.08.21]](https://www.youtube.com/watch?v=Snt6Kc08DqA)
+- [Difficiles Aventures - Terraforming pour l&#39;autoroute [Re&#39;Diff 21.08.21]](https://www.youtube.com/watch?v=m5heK8faSrQ)
+- [Difficiles Aventures - Transformateur électrique [Re&#39;Diff 20.08.21]](https://www.youtube.com/watch?v=PqSnIBPaqD4)
 - [Godot Engine - Configuration du debug [Redif 24.08.21]](https://www.youtube.com/watch?v=xreNlJCtg1o)
 - [Game Dev / Godot - Manette AirConsole pour Crispy Cheese [Redif 17.08.21]](https://www.youtube.com/watch?v=SxgrZntij1o)
 <!-- YOUTUBE:END -->

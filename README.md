@@ -25,11 +25,11 @@ Other plateforms where you can find me : [Twitter](https://twitter.com/greaby_) 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Difficiles Aventures - Récap live 18.09.22 - Le hub du nether](https://www.youtube.com/watch?v=4ZwEpZ_8k0E)
 - [Difficiles Aventures #27 - La bijouterie de Brooklyn [Minecraft | FR]](https://www.youtube.com/watch?v=ZdGm2KGNSGs)
 - [Difficiles Aventures - On construit une ligne électrique [Re&#39;Diff 27.08.21]](https://www.youtube.com/watch?v=Snt6Kc08DqA)
 - [Difficiles Aventures - Terraforming pour l&#39;autoroute [Re&#39;Diff 21.08.21]](https://www.youtube.com/watch?v=m5heK8faSrQ)
 - [Difficiles Aventures - Transformateur électrique [Re&#39;Diff 20.08.21]](https://www.youtube.com/watch?v=PqSnIBPaqD4)
-- [Godot Engine - Configuration du debug [Redif 24.08.21]](https://www.youtube.com/watch?v=xreNlJCtg1o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos](https://www.youtube.com/c/Greaby)

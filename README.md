@@ -25,7 +25,7 @@ Other plateforms where you can find me : [Twitter](https://twitter.com/greaby_) 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Difficiles Aventures - Récap live 08.10.22 - La base souterraine](https://www.youtube.com/watch?v=qq7YMsM5oX8)
+- [Difficiles Aventures - Récap live 07.10.22 - La base souterraine](https://www.youtube.com/watch?v=qq7YMsM5oX8)
 - [Difficiles Aventures - Récap live 30.09.22 - On agrandi encore le hub !](https://www.youtube.com/watch?v=CtYzdFesqYM)
 - [Game dev - Récap live 27.09.22 - Éditeur de niveau [Godot Engine]](https://www.youtube.com/watch?v=capj3nWoY1I)
 - [Difficiles Aventures - Récap live 25.09.22 - La fin de la montagne dans le hub du nether](https://www.youtube.com/watch?v=8TBL1nvnm1Y)

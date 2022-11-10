@@ -13,11 +13,11 @@ Other plateforms where you can find me : [Twitter](https://twitter.com/greaby_) 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux GSM — un outil pour gérer vos serveurs de jeux](https://greaby.co/linux-gsm-un-outil-pour-gerer-vos-serveurs-de-jeux/)
 - [Comment est construit un QR code ?](https://greaby.co/qr-code/)
 - [Creature Mixer](https://greaby.co/creature-mixer/)
 - [Génération procédurale de circuit en 2D](https://greaby.co/generation-procedurale-circuit-2d/)
 - [Les réseaux de neurones – Apprentissage supervisé dans Godot Engine](https://greaby.co/les-reseaux-de-neurones-apprentissage-supervise-dans-godot-engine/)
-- [Shuffle Playlist – Meilleure liste aléatoire dans VLC](https://greaby.co/shuffle-playlist-vlc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts](https://greaby.co/)

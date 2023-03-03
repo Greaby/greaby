@@ -27,8 +27,8 @@ Other plateforms where you can find me : [Twitter](https://twitter.com/greaby_) 
 <!-- YOUTUBE:START -->
 - [Difficiles Aventures - Récap live 27.01.23 - La ville miniature](https://www.youtube.com/watch?v=NRb5GsgmCio)
 - [Game dev - Récap live 25.10.22 - Tilemap sur Godot 4 [Godot Engine]](https://www.youtube.com/watch?v=Bvj7eSph-Gw)
-- [Game dev - Récap live 18.10.22 - Spawn des objets [Godot Engine]](https://www.youtube.com/watch?v=_4jZaK6-1D0)
-- [Game dev - Récap live 11.10.22 - Éditeur import et export [Godot Engine]](https://www.youtube.com/watch?v=CgLRvsJJLHE)
+- [Game dev - Récap live 18.10.22 - Spawn des objets [Godot Engine 3]](https://www.youtube.com/watch?v=_4jZaK6-1D0)
+- [Game dev - Récap live 11.10.22 - Éditeur import et export [Godot Engine 3]](https://www.youtube.com/watch?v=CgLRvsJJLHE)
 - [Difficiles Aventures - Récap live 09.10.22 - Le toit du hub](https://www.youtube.com/watch?v=QGs6mX9gTdk)
 <!-- YOUTUBE:END -->
 

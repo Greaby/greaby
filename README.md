@@ -1,4 +1,4 @@
-## 👋🏻 Hi there, I'm Greaby ! _/gribi/_
+## 👋🏻 Hi there 龴ↀ◡ↀ龴, I'm Greaby ! _/gribi/_
 
 I'm a Web Developer, Writer, Game Designer and Minecraft player from Switzerland 🇨🇭
 

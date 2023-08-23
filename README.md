@@ -36,4 +36,4 @@ Other plateforms where you can find me : [Twitter](https://twitter.com/greaby_) 
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greaby&langs_count=6&layout=compact)](https://github.com/Greaby)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greaby&langs_count=6&layout=compact&hide=c%23,ShaderLab,HLSL,GLSL)](https://github.com/Greaby)

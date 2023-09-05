@@ -25,6 +25,7 @@ Other plateforms where you can find me : [Twitter](https://twitter.com/greaby_) 
 ### 🇦 Latest Blog Posts @antistatique
 
 <!-- BLOG-POST-ANTISTATIQUE:START -->
+- [Justine, embarquement immédiat !](https://antistatique.net/blog/justine-embarquement-immediat)
 <!-- BLOG-POST-ANTISTATIQUE:END -->
 
 ➡️ [more blog posts](https://antistatique.net/blog)

@@ -22,6 +22,13 @@ Other plateforms where you can find me : [Twitter](https://twitter.com/greaby_) 
 
 ➡️ [more blog posts](https://greaby.co/)
 
+### 🇦 Latest Blog Posts @antistatique
+
+<!-- BLOG-POST-ANTISTATIQUE:START -->
+<!-- BLOG-POST-ANTISTATIQUE:END -->
+
+➡️ [more blog posts](https://antistatique.net/blog)
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->

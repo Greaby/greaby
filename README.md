@@ -33,11 +33,11 @@ Other plateforms where you can find me : [Mastodon](https://eldritch.cafe/@greab
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Difficiles Aventures - Récap live 25.02.24 - La ville miniature](https://www.youtube.com/watch?v=isJVDVX7fpc)
 - [Difficiles Aventures - Récap live 20.02.24 - Ville miniature comme toujours](https://www.youtube.com/watch?v=EBAx8Y_t-Fo)
 - [Difficiles Aventures - Récap live 27.01.23 - La ville miniature](https://www.youtube.com/watch?v=NRb5GsgmCio)
 - [Game dev - Récap live 25.10.22 - Tilemap sur Godot 4 [Godot Engine]](https://www.youtube.com/watch?v=Bvj7eSph-Gw)
 - [Game dev - Récap live 18.10.22 - Spawn des objets [Godot Engine 3]](https://www.youtube.com/watch?v=_4jZaK6-1D0)
-- [Game dev - Récap live 11.10.22 - Éditeur import et export [Godot Engine 3]](https://www.youtube.com/watch?v=CgLRvsJJLHE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos](https://www.youtube.com/c/Greaby)

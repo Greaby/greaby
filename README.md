@@ -27,6 +27,7 @@ Find me on the web : [Mastodon](https://eldritch.cafe/@greaby) | [Youtube](https
 ### 🇦 Latest Blog Posts @antistatique
 
 <!-- BLOG-POST-ANTISTATIQUE:START -->
+- [SymfonyLive 2024 dans la Ville Lumière](https://antistatique.net/blog/symfonylive-2024-dans-la-ville-lumiere)
 - [Justine, embarquement immédiat !](https://antistatique.net/blog/justine-embarquement-immediat)
 <!-- BLOG-POST-ANTISTATIQUE:END -->
 

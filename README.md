@@ -4,7 +4,6 @@ I'm a Web Developer, Writer, Game Designer and Minecraft player from Switzerland
 
 - 📰 You can read my articles on my [blog](https://greaby.co) (written in french)
 - 🎮 I stream game development on [Twitch](https://www.twitch.tv/greaby). I'm currently working on a game inspired by the old Windows game [Chip's Challenge](https://en.wikipedia.org/wiki/Chip%27s_Challenge). The idea is to create a Mario Maker-style level editor and let viewers create their own levels to discuss game design with them.
-- 🇼  I co-organize [Webmardi](https://webmardi.ch/), free events for developers, designers, project owners, founders & many more. We organize a conference around web-related topics every first Tuesday of the month.
 - 🎵 I'm passionate about music. I play guitar, compose music, play with modular synthesizers and I love vinyls
 - 🎲 I play Minecraft a lot. You can find me on the server "Les Difficiles Aventures". It's a private survival server in which we've been building a contemporary city since 2013.
 
@@ -23,15 +22,6 @@ Find me on the web : [Mastodon](https://eldritch.cafe/@greaby) | [Youtube](https
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts](https://greaby.co/)
-
-### 🇦 Latest Blog Posts @antistatique
-
-<!-- BLOG-POST-ANTISTATIQUE:START -->
-- [SymfonyLive 2024 dans la Ville Lumière](https://antistatique.net/blog/symfonylive-2024-dans-la-ville-lumiere)
-- [Justine, embarquement immédiat !](https://antistatique.net/blog/justine-embarquement-immediat)
-<!-- BLOG-POST-ANTISTATIQUE:END -->
-
-➡️ [more blog posts](https://antistatique.net/blog)
 
 ### 📺 Latest YouTube Videos
 

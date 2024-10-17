@@ -26,11 +26,11 @@ Find me on the web : [Mastodon](https://eldritch.cafe/@greaby) | [Youtube](https
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Difficiles Aventures - Récap live 25.02.24 - La ville miniature - Minecraft Survie](https://www.youtube.com/watch?v=isJVDVX7fpc)
-- [Difficiles Aventures - Récap live 20.02.24 - Ville miniature comme toujours](https://www.youtube.com/watch?v=EBAx8Y_t-Fo)
-- [Difficiles Aventures - Récap live 27.01.23 - La ville miniature](https://www.youtube.com/watch?v=NRb5GsgmCio)
+- [Difficiles Aventures - Skulk et Ville miniature // Récap stream 10](https://www.youtube.com/watch?v=OSY9CO3kdOc)
+- [Difficiles Aventures -  La ville miniature // Récap stream 9](https://www.youtube.com/watch?v=isJVDVX7fpc)
+- [Difficiles Aventures - Ville miniature comme toujours // Récap stream 8](https://www.youtube.com/watch?v=EBAx8Y_t-Fo)
+- [Difficiles Aventures - La ville miniature // Récap stream 7](https://www.youtube.com/watch?v=NRb5GsgmCio)
 - [Game dev - Récap live 25.10.22 - Tilemap sur Godot 4 [Godot Engine]](https://www.youtube.com/watch?v=Bvj7eSph-Gw)
-- [Game dev - Récap live 18.10.22 - Spawn des objets [Godot Engine 3]](https://www.youtube.com/watch?v=_4jZaK6-1D0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos](https://www.youtube.com/c/Greaby)

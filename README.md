@@ -7,7 +7,7 @@ I'm a Web Developer, Writer, Game Designer and Minecraft player from Switzerland
 - 🎵 I'm passionate about music. I play guitar, compose music, play with modular synthesizers and I love vinyls
 - 🎲 I play Minecraft a lot. You can find me on the server "Les Difficiles Aventures". It's a private survival server in which we've been building a contemporary city since 2013.
 
-Find me on the web : [Mastodon](https://eldritch.cafe/@greaby) | [Youtube](https://www.youtube.com/c/greaby) | [Twitch](https://www.twitch.tv/greaby) | [Itch.io](https://greaby.itch.io/) | [Discord](https://discord.com/invite/7Uvszt4)
+Find me on the web : [Bluesky](https://bsky.app/profile/greaby.co) | [Youtube](https://www.youtube.com/c/greaby) | [Twitch](https://www.twitch.tv/greaby) | [Itch.io](https://greaby.itch.io/) | [Discord](https://discord.com/invite/7Uvszt4)
 
 ---
 

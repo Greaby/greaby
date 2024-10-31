@@ -26,11 +26,11 @@ Find me on the web : [Bluesky](https://bsky.app/profile/greaby.co) | [Youtube](h
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Gamedev Godot - Animation du personnage // Récap 7](https://www.youtube.com/watch?v=YUzTUS1ywn4)
 - [Gamedev Godot - Reprise du projet // Récap 6](https://www.youtube.com/watch?v=vO_pD79hHaY)
 - [Difficiles Aventures - Skulk et Ville miniature // Récap 10](https://www.youtube.com/watch?v=OSY9CO3kdOc)
 - [Difficiles Aventures -  La ville miniature // Récap 9](https://www.youtube.com/watch?v=isJVDVX7fpc)
 - [Difficiles Aventures - Ville miniature comme toujours // Récap 8](https://www.youtube.com/watch?v=EBAx8Y_t-Fo)
-- [Difficiles Aventures - La ville miniature // Récap 7](https://www.youtube.com/watch?v=NRb5GsgmCio)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos](https://www.youtube.com/c/Greaby)

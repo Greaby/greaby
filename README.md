@@ -14,11 +14,8 @@ Find me on the web : [Bluesky](https://bsky.app/profile/greaby.co) | [Youtube](h
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Korg Volca modular](https://greaby.co/korg-volca-modular/)
-- [Mix and Jam](https://greaby.co/mix-and-jam/)
-- [Game UI Database – Une référence pour explorer les interface de jeux](https://greaby.co/game-ui-database/)
-- [Linux GSM — un outil pour gérer vos serveurs de jeux](https://greaby.co/linux-gsm-un-outil-pour-gerer-vos-serveurs-de-jeux/)
-- [Comment est construit un QR code ?](https://greaby.co/qr-code/)
+- [Génération procédurale de circuit en 2D](https://greaby.co/generation-procedurale-circuit-2d/)
+- [Le perceptron – Apprentissage supervisé dans Godot Engine](https://greaby.co/perceptron-godot-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts](https://greaby.co/)

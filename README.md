@@ -14,6 +14,7 @@ Find me on the web : [Bluesky](https://bsky.app/profile/greaby.co) | [Youtube](h
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux GSM – un outil pour gérer vos serveurs de jeux](https://greaby.co/linux-gsm-un-outil-pour-gerer-vos-serveurs-de-jeux/)
 - [Génération procédurale de circuit en 2D](https://greaby.co/generation-procedurale-circuit-2d/)
 - [Le perceptron – Apprentissage supervisé dans Godot Engine](https://greaby.co/perceptron-godot-engine/)
 <!-- BLOG-POST-LIST:END -->

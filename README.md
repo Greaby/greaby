@@ -14,11 +14,11 @@ Find me on the web : [Bluesky](https://bsky.app/profile/greaby.co) | [Youtube](h
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neuro-evolution – Apprentissage supervisé dans Godot Engine](https://greaby.co/neuro-evolution-apprentissage-supervise-godot-engine/)
 - [Devlogs – Chaperon](https://greaby.co/devlogs-chaperon/)
 - [Korg Volca modular](https://greaby.co/korg-volca-modular/)
 - [Mix and Jam](https://greaby.co/mix-and-jam/)
 - [Game UI Database – Une référence pour explorer les interface de jeux](https://greaby.co/game-ui-database/)
-- [Linux GSM – un outil pour gérer vos serveurs de jeux](https://greaby.co/linux-gsm-un-outil-pour-gerer-vos-serveurs-de-jeux/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts](https://greaby.co/)
